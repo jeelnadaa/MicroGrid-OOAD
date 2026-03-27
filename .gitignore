@@ -1,0 +1,33 @@
+# Java / Maven
+java/target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+.settings/
+.classpath
+.project
+
+# Environment Variables
+.env
+
+# Database
+*.db
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Screenshots
+screenshots/*.png
+!screenshots/.gitkeep
